@@ -3,10 +3,6 @@
 Recommender systems are algorithms designed to suggest items to users based on various factors such as past behaviors, preferences, and similarities. These systems are widely used in many domains, including e-commerce, social media, and content streaming platforms, to enhance user experience by providing personalized recommendations.
 
 ## Types of Recommender Systems
-### Collaborative Filtering:
-
-User-Based Collaborative Filtering: Recommends items that similar users have liked. For instance, if users A and B have similar tastes, the system will recommend items liked by A to B and vice versa.
-Item-Based Collaborative Filtering: Recommends items similar to those the user has liked. For example, if a user liked item X, the system will recommend items that are similar to X.
 ### Content-Based Filtering:
 
 Recommends items that are similar to those the user has liked in the past based on item features. For instance, if a user likes action movies, the system will recommend other action movies.
@@ -16,9 +12,9 @@ Combine multiple recommendation strategies to improve the accuracy and robustnes
 ### Knowledge-Based Recommender Systems:
 
 Use domain knowledge about how certain item features meet user preferences to recommend items. These systems are often used when users have specific requirements that cannot be met by collaborative or content-based filtering alone.
-### Context-Aware Recommender Systems:
 
 
+### Colaborative Filtering
 #### Collaborative filtering is one of the most popular and effective methods for building recommender systems. It works on the principle of leveraging the preferences and behaviors of users to predict what other users might like.
 
 ##### User-Based Collaborative Filtering
