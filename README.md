@@ -38,7 +38,7 @@ Dataset
 The dataset used in this project includes user ratings for various books. Each entry consists of a user ID, book ID, and rating.
 
 ### Requirements
-Python 3.x
-NumPy
-Pandas
-Scikit-Learn
+##### Python 3.x
+##### NumPy
+##### Pandas
+##### Scikit-Learn
